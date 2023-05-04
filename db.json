@@ -1,0 +1,88 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+      "name": "John Kamau",
+      "description": "Let me keep your house different from outside",
+      "category": "Plumber"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://d2481c7b92627646e93f0fc.mobile-gallery-large.jpg",
+      "name": "Morris Johnson",
+      "description": "Most have said I have a solution to everything, they're not wrong",
+      "category": "Repair man"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://360_F_329581785_osb66v5Tf7TGAGJWcIoLNfBAKTgbhCNM.jpg",
+      "name": "Mkadin Ale",
+      "description": "I'll make your home a heaven",
+      "category": "Interior Designer"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images (8).jpeg",
+      "name": "Alvin Adams",
+      "description": "Your better option to a great home ",
+      "category": "Home Maintanance"
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images (11).jpeg",
+      "name": "Orina Ephy",
+      "description": "Let there be light",
+      "category": "Electrician"
+    },
+    {
+      "id": 6,
+      "avatar_url": "https://360_F_329581785_osb66v5Tf7TGAGJWcIoLNfBAKTgbhCNM.jpg",
+      "name": "Brian KIbet",
+      "description": "You break it I fix it",
+      "category": "Repair man"
+    },
+    {
+      "id": 7,
+      "name": "Adama Traoure",
+      "avatar_url": "https://Hiring_a_Handyman-650x434.jpg",
+      "description": "I make your home a safe haven for you and loved ones",
+      "category": "Home Maintanance"
+    },
+    {
+      "id": 8,
+      "avatar_url": "https:///home/moringa/Development/code/phase-2/Group-3-React-Project-/my-app/src/component/images (10).jpeg",
+      "name": "George Ingabo",
+      "description": "Converts a house to a home",
+      "category": "Interior Designer"
+    },
+    {
+      "id": 9,
+      "avatar_url": "https://images (9).jpeg",
+      "name": "Joy Waka",
+      "description": "I yelling timber",
+      "category": "Carpenter"
+    },
+    {
+      "id": 10,
+      "avatar_url": "https://images (10).jpeg",
+      "name": "Melvin Mela",
+      "description": "Mr. Light up your world",
+      "category": "Electrician"
+    },
+    {
+      "id": 11,
+      "avatar_url": "https://images (8).jpeg",
+      "name": "Steve Kirwa",
+      "description": "I see colors",
+      "category": "Painter"
+    },
+    {
+      "id": 12,
+      "avatar_url": "https://Hiring_a_Handyman-650x434.jpg",
+      "name": "Kimani Bonnke",
+      "description": "Your trusted furniture plug",
+      "category": "Carpenter"
+    }
+  ]
+}
